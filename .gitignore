@@ -1,1 +1,12 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+modules.order
+Module.symvers
+.modules.order.cmd
+.Module.symvers.cmd
+.*.cmd
+
 arch.qcow2
